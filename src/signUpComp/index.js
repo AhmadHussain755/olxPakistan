@@ -29,6 +29,9 @@ function SignUpComponent() {
         email,
         pass
       );
+
+
+      
       console.log("objSignup", userCredential);
 
       const userObj = {
